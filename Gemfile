@@ -27,6 +27,7 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
 
+gem 'haml'
 gem 'handlebars_assets', path: '~/src/handlebars_assets'
 
 group :doc do
